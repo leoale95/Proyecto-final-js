@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "product": "Alfajor",
+        "price": 7,
+        "image": "./img/Productos/alfajores.jpg"
+    },
+    {
+        "id": "2",
+        "product": "Dulce de leche",
+        "price": 5,
+        "image": "./img/Productos/ddl.JPG"
+    },
+    {
+        "id": "3",
+        "product": "Fernet",
+        "price": 15,
+        "image": "./img/Productos/fernet.jpg"
+    },
+    {
+        "id": "4",
+        "product": "Bizcochos",
+        "price": 2,
+        "image": "./img/Productos/bizcocho.jpg"
+    },
+    {
+        "id": "8",
+        "product": "Termo",
+        "price": 7,
+        "image": "./img/Productos/Termo.PNG"
+    },
+    {
+        "id": "5",
+        "product": "Yerba",
+        "price": 15,
+        "image": "./img/Productos/yerbamate.JPG"
+    },
+    {
+        "id": "6",
+        "product": "Vino",
+        "price": 10,
+        "image": "./img/Productos/vinos.PNG"
+    },
+    {
+        "id": "7",
+        "product": "Brazero",
+        "price": 20,
+        "image": "./img/Productos/brasero.PNG"
+    }
+] 
